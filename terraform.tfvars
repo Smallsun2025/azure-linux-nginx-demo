@@ -1,0 +1,5 @@
+resource_group_name = "demo-rg"
+location            = "eastus"
+vm_name             = "demo-vm"
+admin_username      = "azureuser"
+admin_password      = "P@ssw0rd1234!"
